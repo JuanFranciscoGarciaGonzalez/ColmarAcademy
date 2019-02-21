@@ -8,3 +8,7 @@ header{
   width: 100%;
   align-items: center;
 }
+header img{
+  padding-left: 24px;
+  height: 32px;
+}
