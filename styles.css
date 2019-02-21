@@ -29,3 +29,6 @@ a{
 p span{
   font-weight: bold;
 }
+.banner img{
+  width: 60%;
+}
