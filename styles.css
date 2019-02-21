@@ -14,4 +14,5 @@ header img{
 }
 nav{
   text-align: right;
+  flex-grow: 1;
 }
