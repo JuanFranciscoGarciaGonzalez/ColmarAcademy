@@ -35,4 +35,5 @@ p span{
 }
 .banner{
   background-color: gray;
+  display: flex;
 }
