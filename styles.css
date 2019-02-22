@@ -28,6 +28,10 @@ a{
 }
 p span{
   font-weight: bold;
+
+}
+span{
+  font-size: 1rem;
 }
 .bannerimg{
   width: 60%;
@@ -60,4 +64,5 @@ p span{
 }
 .bannerinfo button{
   font-size: 1rem;
+  padding: 8px 0;
 }
