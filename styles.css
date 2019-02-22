@@ -46,6 +46,7 @@ span{
   background-color: gray;
   display: flex;
   padding: 32px 24px;
+  border-bottom: 1px solid black;
 }
 .bannerinfo{
   width: 40%;
