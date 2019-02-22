@@ -73,3 +73,6 @@ span{
 .infoimg{
   width: 60%
 }
+.infoimg img{
+  width: 100%;
+}
