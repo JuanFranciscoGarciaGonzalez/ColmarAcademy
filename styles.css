@@ -47,4 +47,5 @@ p span{
   width: 40%;
   display: flex;
   flex-flow: wrap column;
+  justify-content: center;
 }
