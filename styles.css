@@ -35,13 +35,14 @@ p span{
 }
 .bannerimg img{
   width: 100%;
+  height: auto;
 }
 .banner{
   background-color: gray;
   display: flex;
   padding: 32px 24px;
 }
-.banner2{
+.bannerinfo{
   width: 40%;
   display: block;
 }
