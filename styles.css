@@ -69,6 +69,7 @@ span{
 }
 .information{
   display: flex;
+  padding-top: 32px;
 }
 .infoimg{
   width: 60%
