@@ -31,6 +31,7 @@ p span{
 }
 .bannerimg{
   width: 60%;
+  height: auto;
 
 }
 .bannerimg img{
@@ -44,5 +45,5 @@ p span{
 }
 .bannerinfo{
   width: 40%;
-  display: block;
+  display: flex;
 }
