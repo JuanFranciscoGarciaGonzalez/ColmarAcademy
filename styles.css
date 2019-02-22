@@ -36,6 +36,7 @@ span{
 .bannerimg{
   width: 60%;
   height: auto;
+  padding-right: 12px;
 
 }
 .bannerimg img{
@@ -53,7 +54,7 @@ span{
   display: flex;
   flex-flow: wrap column;
   justify-content: center;
-  margin-left: 50px;
+  padding-left: 12px;
 }
  h1{
   font-size: 2rem;
