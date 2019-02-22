@@ -46,4 +46,5 @@ p span{
 .bannerinfo{
   width: 40%;
   display: flex;
+  flex-flow: wrap column;
 }
