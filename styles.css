@@ -48,4 +48,5 @@ p span{
   display: flex;
   flex-flow: wrap column;
   justify-content: center;
+  margin-left: 50px;
 }
