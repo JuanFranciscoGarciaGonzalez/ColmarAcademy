@@ -29,9 +29,12 @@ a{
 p span{
   font-weight: bold;
 }
-.banner img{
+.bannerimg{
   width: 60%;
 
+}
+.bannerimg img{
+  width: 100%;
 }
 .banner{
   background-color: gray;
