@@ -50,3 +50,6 @@ p span{
   justify-content: center;
   margin-left: 50px;
 }
+.bannerinfo h1{
+  font-size: 3rem;
+}
